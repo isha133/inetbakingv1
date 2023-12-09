@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-09T14:49:43Z" name="InetBankingV1" finished-at="2023-12-09T14:50:05Z" duration-ms="21519">
+  <suite started-at="2023-12-09T15:45:30Z" name="InetBankingV1" finished-at="2023-12-09T15:46:05Z" duration-ms="34826">
     <groups>
     </groups>
-    <test started-at="2023-12-09T14:49:43Z" name="BankingApp Test" finished-at="2023-12-09T14:50:05Z" duration-ms="21519">
+    <test started-at="2023-12-09T15:45:30Z" name="BankingApp Test" finished-at="2023-12-09T15:46:05Z" duration-ms="34826">
       <class name="com.inetBanking.testCases.TC_LoginDDT_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T14:49:43Z" name="setup" finished-at="2023-12-09T14:49:53Z" duration-ms="9854" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T15:45:30Z" name="setup" finished-at="2023-12-09T15:45:45Z" duration-ms="14128" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T14:49:54Z" name="loginDDT" data-provider="LoginData" finished-at="2023-12-09T14:50:04Z" duration-ms="10190" status="PASS">
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T15:45:45Z" name="loginDDT" data-provider="LoginData" finished-at="2023-12-09T15:46:05Z" duration-ms="19259" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T14:50:04Z" name="tearDown" finished-at="2023-12-09T14:50:05Z" duration-ms="292" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3b94d659]" started-at="2023-12-09T15:46:05Z" name="tearDown" finished-at="2023-12-09T15:46:05Z" duration-ms="350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
