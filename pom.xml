@@ -50,31 +50,7 @@
       <dependency>
                                 
         
-        <groupId>inetBankingV1</groupId>
-                                
-        
-        <artifactId>inetBankingV1-frontend</artifactId>
-                                
-        
-        <version>0.0.1-SNAPSHOT</version>
-                            
-      
-      </dependency>
-                        
-      
-      <dependency>
-                                
-        
-        <groupId>inetBankingV1</groupId>
-                                
-        
-        <artifactId>inetBankingV1-backend</artifactId>
-                                
-        
-        <version>0.0.1-SNAPSHOT</version>
-                            
-      
-      </dependency>
+       
                     
     
     </dependencies>
